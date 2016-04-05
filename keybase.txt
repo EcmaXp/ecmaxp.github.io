@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/ecmaxp
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://ecmaxp.pe.kr
+  * I am ecmaxp (https://keybase.io/ecmaxp) on keybase.
+  * I have a public key with fingerprint 0A62 7241 C8EB 2171 22DC  1A60 4DB3 13E3 7290 2B92
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101e0fbd09c42f6fc80f71915a55e50f4243fddf45efddc9e7581c1e4ee7f4f38b20a",
+            "fingerprint": "0a627241c8eb217122dc1a604db313e372902b92",
+            "host": "keybase.io",
+            "key_id": "4db313e372902b92",
+            "kid": "0101e0fbd09c42f6fc80f71915a55e50f4243fddf45efddc9e7581c1e4ee7f4f38b20a",
+            "uid": "653fa7f8961f6bb3f16b96cd438c1619",
+            "username": "ecmaxp"
+        },
+        "service": {
+            "hostname": "ecmaxp.pe.kr",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1459867440,
+    "expire_in": 157680000,
+    "prev": "055c23732ebd5060324e46cdcf634a929669b1c7bf5c6cf4473ca8fc60b5f0d9",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMIoAnicrVJbSBRRGF41u1h2NTKMgskuhOg5M2fOzCwZQhfBLpQVBUnLzJlzdFrd
+2WZmt7V1CyuKtZdNzaiHouihiMqM2oqKbgRdKLCsQJbyxYeMUKOHKLIZqYegx87L
+z/n/7/v+7//5H+Xn+PKy5EOF6ZrrqaqsZ/fbI74tOS9BnNNMvZHzx7kgHQ20Xqe2
+EwgaOufnAASQAqbpQCGIZ5gRGTAJKlBURZGKgCEeCUzXGRKpG4hCJVGGBFJEqcQQ
+E2SNBypXwjEjVEutsGWEHE9WxbzEI0hkqvFQgjyvE6higHRNgAIVJF4BvKbwLrHO
+tD2Ga05TbVpqmG7O/QRG7f0D/599R0blsCgwVWKygiHDmiYwiDUFEx0JMoEYKh7Q
+plZIbaAumpIGNRbmEiWcm4sahHpr9eb4q14apqVBy2WGLdMxiVnvVuocJ+z3iE5j
+2EPuolrgt0ZAM0K6u0SXEKWWbZghzg9dJHEMTxQiUZGxhBAo4WgsbFg0YHgIUcIy
+cJ/Xhka9zYgi4QVJ4KmmiwADgUcUuaMQhgWkKryCsaJBImlMJJgwhCSBqDIjGGgi
+A7o3qk13hkzOj1ybaq0raRu1IdWJWJRLPLhXM8aXlecbm5vtHZcvb8LUPydXlB43
+Urnx8/rVqeTMropLJR0/SFvP46HqcQdnPI+cLdtW17VnYHxmKPnllT8Rm5yfDgZa
+kptbJ77BK9CWHd3f4mbw1MTDL/RJTZUnD5YVTV6++9jDs8XPN41Z+T0aHUhvyCiv
+zzWMtHadb9q/KrtvULX4Njq39+7dAmPBlb3twN6fee9s3bnu9rTErdLFxd+7Pixa
+W/y4fd+VFeXfFtwZPr2krePpwvlXP/a9u/xz0NZfZG/fd+Z4iuUeEKr7l7VXgGvK
+QM6N4p6LFamWnuTReVOGq1Ko9WryyInOR73908vXky+ZzpuFy6OZt2MrC540f5o9
+62t345o54Zd98QsXlzaX1Rw/VBSJ/QIQeT96
+=m4Vh
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ecmaxp
+
+==================================================================
